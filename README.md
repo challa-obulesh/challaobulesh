@@ -17,7 +17,7 @@
 - 🏆 2nd Place at **IEEE Embedathon @ NITK**  
 - 📊 Certified: **AWS Cloud Practitioner**, **Google Analytics**  
 - 🧠 Passionate about solving real-world problems with **data-driven insights**  
-- 🌐 Portfolio: [https://challa-obulesh.github.io/personalwebsite.github.io/](https://challa-obulesh.github.io/personalwebsite.github.io/)  
+- 🌐 Portfolio: [https://portifolio-cco.vercel.app/](https://portifolio-cco.vercel.app/)  
 - 📫 Reach me at: **challaobulesh3@gmail.com**  
 - 😄 Fun fact: I’m funny, friendly, and love hackathons 🚀
 
